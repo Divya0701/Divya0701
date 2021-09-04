@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divya0701
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in web development and competative programming
 - 🌱 I’m currently learning react
 
 <!---
